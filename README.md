@@ -82,6 +82,10 @@ npm test
 }
 ```
 
+### 📢 Mais Funcionalidades em Breve
+
+Em breve, este repositório será atualizado com mais APIs e bibliotecas para envio de mensagens (como SMS, push notifications, entre outras) e outras funcionalidades úteis para facilitar a integração de notificações em seus projetos.
+
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
